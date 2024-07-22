@@ -14,5 +14,5 @@ Infinity is An interesting real-time collaborative whiteboard with infinite spac
 
 ## Install
 
-* [bankend](./backend/)
+* [backend](./backend/)
 * [frontend](./frontend/)
